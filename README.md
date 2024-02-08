@@ -8,7 +8,6 @@
 KÜÇÜK BİR AYAR VE UPDATE YAPILMASI GEREK.
 
 
-### Ve observer cüzdanınızda 0.1 - 1 Ar olması gerek
 
 ```console
 cd ar-io-node/testnet-contract/tools
@@ -43,4 +42,6 @@ yarn ts-node tools/update-gateway-settings.ts
 ```
 
 işlem bu kadar. üstteki siteden observer cüzdanınızın değiştiğini kontrol edin.
+
+### Son olarak observer raporlarının kaydedilebilmesi için observer cüzdanınızda bir miktar (0.1 - 1) AR olması gerekiyor. 
 
